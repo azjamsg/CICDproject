@@ -9,4 +9,6 @@
 
 The user can then see the nodejs app on port 8081 from web preview
 
+This project is using buddy.works, it uses GUI to setup CI/CD pipeline.
+
 
